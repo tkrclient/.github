@@ -1,15 +1,10 @@
 ## Credits
-Made the script:
-
-tkr ᴹᴿ乂ｙａｋｕｚａ☂
-
-TKR racist
-
-TKR Lorenzino
-
-TKR Blacklight
-
-TKR Mr iogames
+Made the script: <br>
+tkr ᴹᴿ乂ｙａｋｕｚａ☂ <br>
+TKR racist <br>
+TKR Lorenzino <br>
+TKR Blacklight <br>
+TKR Mr iogames <br>
 
 ## Firefox Addon Available!
 https://addons.mozilla.org/en-US/firefox/addon/tkrclient/
