@@ -1,5 +1,3 @@
-# .github
-
 ## Credits
 Made the script:
 tkr ᴹᴿ乂ｙａｋｕｚａ☂
