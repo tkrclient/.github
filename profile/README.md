@@ -1,9 +1,14 @@
 ## Credits
 Made the script:
+
 tkr ᴹᴿ乂ｙａｋｕｚａ☂
+
 TKR racist
+
 TKR Lorenzino
+
 TKR Blacklight
+
 TKR Mr iogames
 
 ## Firefox Addon Available!
